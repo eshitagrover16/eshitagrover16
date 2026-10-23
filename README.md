@@ -15,7 +15,7 @@
 📚 Exploring SQL, data visualization and real-world datasets  
 🚀 Building projects to strengthen my analytical and problem-solving skills  
 
-> 💡 *I believe in learning by building, solving problems, and continuously improving.*
+
 
 ---
 
