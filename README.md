@@ -108,14 +108,6 @@ I'm a Computer Science Engineering student passionate about Data Science, Data A
 
 ---
 
-## 🐍 My GitHub Contributions
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/eshitagrover16/eshitagrover16/output/github-contribution-grid-snake.svg" alt="Animated GitHub contribution snake" />
-</p>
-
----
-
 ## 📫 Connect With Me
 
 <p>
