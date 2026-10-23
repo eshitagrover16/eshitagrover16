@@ -1,16 +1,31 @@
-## Hi there 👋
 
-<!--
-**eshitagrover16/eshitagrover16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Eshita Grover! 👋
 
-Here are some ideas to get you started:
+🎓 B.Tech CSE Student  
+📊 Aspiring Data Scientist | 💻 Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy solving problems, exploring data, and building projects
+that turn ideas into useful applications.
+
+## 🚀 Currently Working On
+- Strengthening Data Structures & Algorithms in C++
+- Learning Python, SQL, and Machine Learning
+- Building data analysis and web development projects
+
+## 🛠️ Tech Stack
+- **Languages:** C++, Python, SQL
+- **Data Science:** Pandas, NumPy, Matplotlib, Scikit-learn
+- **Tools:** Git, GitHub, Jupyter Notebook
+- **Web Development:** HTML, CSS, JavaScript
+
+## 📌 Featured Projects
+- 📈 Stock Market Data Analysis
+- 🎬 Netflix Data Analysis
+- 🛒 Amazon Data Analysis
+- 🌌 AlgoLingo — Interactive Learning Platform
+
+## 📫 Connect With Me
+- GitHub: https://github.com/eshitagrover16
+
+---
+*Always learning. Always building.*
