@@ -108,6 +108,23 @@ I'm a Computer Science Engineering student passionate about Data Science, Data A
 
 ---
 
+---
+
+## 📊 GitHub Stats & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=eshitagrover16&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eshitagrover16&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eshitagrover16&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
+</p>
+
+
 ## 📫 Connect With Me
 
 <p>
