@@ -4,15 +4,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=B.Tech+CSE+Student;Aspiring+Data+Scientist;Python+%7C+SQL+%7C+Machine+Learning;C%2B%2B+%7C+Data+Structures+%26+Algorithms;Turning+Data+into+Insights+%F0%9F%93%8A" alt="Typing introduction" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/eshitagrover16">
-    <img src="https://komarev.com/ghpvc/?username=eshitagrover16&style=for-the-badge&color=blueviolet" alt="Profile views"/>
-  </a>
-  <a href="https://github.com/eshitagrover16?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore-My_Repositories-blue?style=for-the-badge&logo=github" alt="Repositories"/>
-  </a>
-</p>
-
 ---
 
 ## 🧑‍💻 About Me
@@ -71,14 +62,9 @@
 |---|---|---|---|
 | 📈 **Stock Market Data Analysis** | Analyze stock prices and company revenue using financial data and visualizations. | Python, Pandas, yfinance, Web Scraping | [View Repository →](https://github.com/eshitagrover16/stock-market-data-analysis) |
 | 🎬 **Netflix Data Analysis** | Explore Netflix movies and TV shows to discover content trends and patterns. | Python, Pandas, Matplotlib | [View Repository →](https://github.com/eshitagrover16/Netflix-Data-Analysis) |
+| 🛒 **Amazon Data Analysis** | Explore Amazon data to identify trends and patterns through data analysis and visualization. | Python, Pandas, NumPy, Matplotlib | [View Repository →](https://github.com/eshitagrover16?tab=repositories) |
 | 🐍 **Python Mini Projects** | A collection of practical Python projects, including a calculator, file organizer, PDF merger, QR code generator and water reminder. | Python | [View Repository →](https://github.com/eshitagrover16/Python-projects-mini-projects-) |
 | 🌱 **Carbon Footprint Calculator** | A C++ application that estimates carbon emissions from lifestyle activities using object-oriented programming. | C++, OOP | [View Repository →](https://github.com/eshitagrover16/Carbon-Footprint-Calculator) |
-
-<p align="center">
-  <a href="https://github.com/eshitagrover16?tab=repositories">
-    <img src="https://img.shields.io/badge/🔎_Explore_All_Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore all projects"/>
-  </a>
-</p>
 
 ---
 
@@ -90,19 +76,6 @@
 - 🤖 Machine Learning fundamentals and model evaluation
 - 🧠 Data Structures & Algorithms in C++
 - 📈 Statistical analysis and working with real-world datasets
-
----
-
-## 📈 GitHub Statistics
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=eshitagrover16&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eshitagrover16&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=eshitagrover16&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
-</p>
 
 ---
 
